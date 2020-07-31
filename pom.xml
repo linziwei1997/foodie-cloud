@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>foodie-cloud-common</module>
+        <module>foodie-cloud-shared-pojo</module>
     </modules>
 
     <packaging>pom</packaging>
