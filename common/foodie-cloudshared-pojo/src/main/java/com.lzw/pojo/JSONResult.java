@@ -1,7 +1,7 @@
-package com.lzw.utils;
+package com.lzw.pojo;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.databind.ObjectMapper;
+//import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
  * @Description: 自定义响应数据结构
@@ -19,7 +19,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class JSONResult {
 
     // 定义jackson对象
-    private static final ObjectMapper MAPPER = new ObjectMapper();
+//    private static final ObjectMapper MAPPER = new ObjectMapper();
 
     // 响应业务状态
     private Integer status;

@@ -8,7 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="foodie-cloud-common" />
         <module name="foodie-cloud-shared-pojo" />
+        <module name="foodie-cloudshared-pojo" />
+        <module name="registry-center" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="foodie-cloud-common" target="1.8" />
+      <module name="foodie-cloud-shared-pojo" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

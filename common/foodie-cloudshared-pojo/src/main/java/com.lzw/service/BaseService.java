@@ -1,7 +1,7 @@
-package com.lzw.service.impl.center;
+package com.lzw.service;
 
 import com.github.pagehelper.PageInfo;
-import com.lzw.utils.PagedGridResult;
+import com.lzw.pojo.PagedGridResult;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.lzw.utils;
+package com.lzw.pojo;
 
 import java.util.List;
 
