@@ -8,11 +8,15 @@
     <artifactId>foodie-cloud</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>foodie-cloud-common</module>
-        <module>foodie-cloud-shared-pojo</module>
-        <module>foodie-cloud-shared-pojo</module>
-        <module>platform/registry-center</module>
-        <module>foodie-cloudshared-pojo</module>
+        <module>common/foodie-cloud-common</module>
+        <module>common/foodie-cloud-shared-pojo</module>
+        <module>platform/register-center</module>
+        <module>common/foodie-cloud-web-components</module>
+        <module>domain/foodie-item-pojo</module>
+        <module>domain/item/foodie-item-mapper</module>
+        <module>domain/item/foodie-item-pojo</module>
+        <module>domain/item/foodie-item-api</module>
+        <module>domain/foodie-item-service</module>
     </modules>
 
     <packaging>pom</packaging>

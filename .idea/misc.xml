@@ -10,6 +10,8 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/foodie-cloud-shared-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/registercenter/pom.xml" />
+        <option value="$PROJECT_DIR$/platform/registry-center/pom.xml" />
       </set>
     </option>
   </component>
